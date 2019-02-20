@@ -1,3 +1,3 @@
 # sandbox
-Introducción
+## Introducción
 Repositorio de prueba para PSG2.
